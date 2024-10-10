@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int i, ano, anoA;
+	int ano, anoA;
 	float sal, per;
 	
 	printf("Salario em 2019 = 1015.00\n");
